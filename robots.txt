@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://juego-futbolino.com/sitemap.xml
